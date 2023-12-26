@@ -15,5 +15,5 @@
 <img src="https://github.com/NikolManolova07/NikolManolovaCalculator/assets/83454633/70d32d43-c5d1-47f3-8882-7859f94908bf">
 
 - Reservation Controller<br>
-  GET /locations - Filter reservations by phone number.
+  GET /reservations - Filter reservations by phone number.
 <img src="https://github.com/NikolManolova07/NikolManolovaCalculator/assets/83454633/1970d84d-3e0d-4e82-88d6-178b375cafc9">
